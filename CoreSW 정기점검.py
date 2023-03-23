@@ -75,7 +75,7 @@ def main():
         else:
             crt.Dialog.MessageBox('connection is false')
         
-        test
+        test tetettstets
 
 
 main()
